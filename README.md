@@ -1,2 +1,2 @@
 # Hello-World
-Repositório criado para armazenar todos os "Olá, Mundo!" criados por mim em diferentes linguagens.
+Repositório criado para armazenar todos os "Olá, Mundo!" criados por mim.
